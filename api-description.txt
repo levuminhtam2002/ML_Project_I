@@ -1,0 +1,160 @@
+HTGS: Home Team Goal Scored
+ATGS: Away Team Goal Scored
+HTGC: Home Team Goal Conceded
+ATGC: Away Team Goal Conceded
+HTP: Home Team Point
+ATP: Away Team Point
+HM1: Result Of Last Home Team Match (W/L/D/M)
+HM2: Result Of Last 2nd Home Team Match (W/L/D/M)
+HM3: Result Of Last 3rd Home Team Match (W/L/D/M)
+HM4: Result Of Last 4th Home Team Match (W/L/D/M)
+HM5: Result Of Last 5th Home Team Match (W/L/D/M)
+AM1: Result Of Last Away Team Match (W/L/D/M)
+AM2: Result Of Last 2nd Away Team Match (W/L/D/M)
+AM3: Result Of Last 3rd Away Team Match (W/L/D/M)
+AM4: Result Of Last 4th Away Team Match (W/L/D/M)
+AM5: Result Of Last 5th Away Team Match (W/L/D/M)
+EstimatedHomeGoals: 
+EstimatedAwayGoals: 
+HTWinStreak3: Home Team Win Streak 3
+HTWinStreak5: Home Team Win Streak 5
+HTLossStreak3: Home Team Loss Streak 3
+HTLossStreak5: Home Team Loss Streak 5
+ATWinStreak3: Away Team Win Streak 3
+ATWinStreak5: Away Team Win Streak 5
+ATLossStreak3: Away Team Loss Streak 3
+ATLossStreak5: Away Team Loss Streak 5
+HTGD: Home Team Goal Difference = HTGS - HTGC
+ATGD: Away Team Goal Difference = ATGS - ATGC
+DiffPts: Difference Points = HTP - ATP
+DiffFormPts: Last 5 Matches Points Of Home Team - Last 5 Matches Points Of Away Team
+DiffLP: Different Last Position = Home Team Last Position - Away Team Last Position
+
+{
+     "data": {
+         "HTGS": {
+             "value": 0,
+             "descrition": "Home Team Goal Scored"
+         },
+         "ATGS": {
+             "value": 0,
+             "descrition": "Away Team Goal Scored"
+         },
+         "HTGC": {
+             "value": 0,
+             "descrition": "Home Team Goal Conceded"
+         },
+         "ATGC": {
+             "value": 0,
+             "descrition": "Away Team Goal Conceded"
+         },
+         "HTP": {
+             "value": 0,
+             "descrition": "Home Team Point"
+         },
+         "ATP": {
+             "value": 0,
+             "descrition": "Away Team Point"
+         },
+         "HM1": {
+             "value": "M",
+             "descrition": "Result Of Last Home Team Match (W/L/D/M)"
+         },
+         "HM2": {
+             "value": "M",
+             "descrition": "Result Of Last 2nd Home Team Match (W/L/D/M)"
+         },
+         "HM3": {
+             "value": "M",
+             "descrition": "Result Of Last 3rd Home Team Match (W/L/D/M)"
+         },
+         "HM4": {
+             "value": "M",
+             "descrition": "Result Of Last 4th Home Team Match (W/L/D/M)"
+         },
+         "HM5": {
+             "value": "M",
+             "descrition": "Result Of Last 5th Home Team Match (W/L/D/M)"
+         },
+         "AM1": {
+             "value": "M",
+             "descrition": "Result Of Last Away Team Match (W/L/D/M)"
+         },
+         "AM2": {
+             "value": "M",
+             "descrition": "Result Of Last 2nd Away Team Match (W/L/D/M)"
+         },
+         "AM3": {
+             "value": "M",
+             "descrition": "Result Of Last 3rd Away Team Match (W/L/D/M)"
+         },
+         "AM4": {
+             "value": "M",
+             "descrition": "Result Of Last 4th Away Team Match (W/L/D/M)"
+         },
+         "AM5": {
+             "value": "M",
+             "descrition": "Result Of Last 5th Away Team Match (W/L/D/M)"
+         },
+         "EstimatedHomeGoals": {
+             "value": 0,
+             "descrition": "Estimated Goals Of Home Team"
+         },
+         "EstimatedAwayGoals": {
+             "value": 0,
+             "descrition": "Estimated Goals Of Away Team"
+         },
+         "HTWinStreak3": {
+             "value": 0,
+             "descrition": "Home Team Win Streak 3 (0/1)"
+         },
+         "HTWinStreak5": {
+             "value": 0,
+             "descrition": "Home Team Win Streak 5 (0/1)"
+         },
+         "HTLossStreak3": {
+             "value": 0,
+             "descrition": "Home Team Loss Streak 3 (0/1)"
+         },
+         "HTLossStreak5": {
+             "value": 0,
+             "descrition": "Home Team Loss Streak 5 (0/1)"
+         },
+         "ATWinStreak3": {
+             "value": 0,
+             "descrition": "Away Team Win Streak 3 (0/1)"
+         },
+         "ATWinStreak5": {
+             "value": 0,
+             "descrition": "Away Team Win Streak 5 (0/1)"
+         },
+         "ATLossStreak3": {
+             "value": 0,
+             "descrition": "Away Team Loss Streak 3 (0/1)"
+         },
+         "ATLossStreak5": {
+             "value": 0,
+             "descrition": "Away Team Loss Streak 5 (0/1)"
+         },
+         "HTGD": {
+             "value": 0,
+             "descrition": "Home Team Goal Difference = HTGS - HTGC"
+         },
+         "ATGD": {
+             "value": 0,
+             "descrition": "Away Team Goal Difference = ATGS - ATGC"
+         },
+         "DiffPts": {
+             "value": 0,
+             "descrition": "Difference Points = HTP - ATP"
+         },
+         "DiffFormPts": {
+             "value": 0,
+             "descrition": "Last 5 Matches Points Of Home Team - Last 5 Matches Points Of Away Team"
+         },
+         "DiffLP": {
+             "value": 0,
+             "descrition": "Different Last Position = Home Team Last Position - Away Team Last Position"
+         }
+     }
+}
